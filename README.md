@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
