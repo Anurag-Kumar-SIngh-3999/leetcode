@@ -42,10 +42,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0344-reverse-string) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
