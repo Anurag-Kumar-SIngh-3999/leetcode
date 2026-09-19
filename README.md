@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
