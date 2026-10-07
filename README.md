@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0520-detect-capital) |
 ## Binary Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
