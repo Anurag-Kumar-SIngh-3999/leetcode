@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0016-3sum-closest) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0724-find-pivot-index) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
@@ -127,8 +130,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
