@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
