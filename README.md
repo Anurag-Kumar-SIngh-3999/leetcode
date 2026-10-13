@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
