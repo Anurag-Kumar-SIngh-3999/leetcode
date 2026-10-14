@@ -19,27 +19,18 @@ class Solution {
             return 0;
         }
         int lh = check(root.left);
+        if(lh==-1){return -1;}
         int rh = check(root.right);
+        if(rh==-1){return -1;
+        }
+        if(Math.abs(lh-rh)>1){
+            return -1;
+        }
         return Math.max(lh,rh)+1;
     }
 
 
     public boolean isBalanced(TreeNode root) {
-        if(root==null){
-            return true;
-        }
-       
-          
-        if (isBalanced(root.left) && isBalanced(root.right)){
-            if (Math.abs(check(root.left)-check(root.right))<=1){
-                return true;
-            }else{
-                return false;
-                }
-        }else{
-            return false;
-        }
-        
-        
+       return check(root)!=-1;
     }
 }
