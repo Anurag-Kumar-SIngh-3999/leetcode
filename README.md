@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -151,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1929-concatenation-of-array) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
