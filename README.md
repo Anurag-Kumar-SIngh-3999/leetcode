@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0724-find-pivot-index) |
+| [1672-richest-customer-wealth](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
