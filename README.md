@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
