@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0771-jewels-and-stones](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
