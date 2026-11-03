@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0016-3sum-closest) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anurag-Kumar-SIngh-3999/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
